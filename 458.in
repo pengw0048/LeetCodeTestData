@@ -1,0 +1,1 @@
+[{'minutesToTest': 60, 'buckets': 1000, 'minutesToDie': 15}, {'minutesToTest': 1, 'buckets': 1, 'minutesToDie': 1}, {'minutesToTest': 60, 'buckets': 1000, 'minutesToDie': 12}, {'minutesToTest': 2, 'buckets': 4, 'minutesToDie': 1}, {'minutesToTest': 60, 'buckets': 5, 'minutesToDie': 15}, {'minutesToTest': 60, 'buckets': 25, 'minutesToDie': 15}]
